@@ -1,0 +1,31 @@
+{
+  "name": "waqar_countdown",
+  "version": "1.0.0",
+  "description": "CLI countdown in Typescript",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Waqar Aslam",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.11",
+    "luxon": "^3.4.3"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.6",
+    "@types/luxon": "^3.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waqaraslam1997/countdown_timer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/waqaraslam1997/countdown_timer/issues"
+  },
+  "homepage": "https://github.com/waqaraslam1997/countdown_timer#readme"
+}
